@@ -1,1 +1,3 @@
-# mocking-demo
+# Mocking Demo 
+
+Demo for a mocking lecture @ SoftUni.
